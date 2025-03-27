@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="frederico-teixeira-neves-b6532230a" target="_blank">
+  <a href="[frederico-teixeira-neves-b6532230a](https://www.linkedin.com/in/frederico-teixeira-neves-b6532230a/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/fredericotn/" target="_blank">
